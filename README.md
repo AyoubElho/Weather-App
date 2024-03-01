@@ -4,4 +4,4 @@
 Java & xml 
 <br>
 <br> <br>
-![WhatsApp Image 2024-03-01 à 16 53 47_637c6426](https://github.com/AyoubElho/Weather-App/assets/161326721/54f27027-e136-4147-9e9e-72fbf02b3953)
+![weather app](https://github.com/AyoubElho/Weather-App/assets/161326721/8b8f04f5-70fa-4501-afc5-9cc12f695238)
