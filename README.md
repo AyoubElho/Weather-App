@@ -8,4 +8,4 @@ Java & xml
 <p> </p>
 <p> </p>
 
-![WhatsApp Image 2024-03-01 à 16 18 49_828aa03a](https://github.com/AyoubElho/Weather-App/assets/161326721/28395c8d-f220-4279-ad00-0ff140a707c5)
+![weather app](https://github.com/AyoubElho/Weather-App/assets/161326721/25092601-ce13-48a5-a8c0-2ea2db74c288)
